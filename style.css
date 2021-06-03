@@ -1,0 +1,30 @@
+.menu{
+    display:flex;
+    justify-content: space-between;
+    background-color: black;
+    color: #abcdef;
+    font-weight: 400;
+    font-size: 20px;
+    font-family: fantasy;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    margin: 50px;
+}
+body {
+    margin: 0px;
+}
+.orgami{
+    border-radius: 20px;
+    background-color:#909090;
+    width: 300px;
+    font-family: fantasy;
+    margin: 30px;
+}
+
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+    margin: 50px;
+}
